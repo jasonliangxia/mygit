@@ -73,3 +73,8 @@ github中 该项目-settings
 
 合作者：打卡该链接、接受邀请  ：clone 项目 、修改、add .\commit
  push
+
+
+$ git status  查看状态
+$ git log   查看版本--git  reset便于返回以前的版本
+$git reset +commit 后面的数字   返回以前的版本
